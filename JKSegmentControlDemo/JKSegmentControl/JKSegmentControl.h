@@ -3,7 +3,7 @@
 //  ZY-Houserkeeper
 //
 //  Created by JayKing on 17/7/17.
-//  Copyright © 2017年 zallsoon-zf. All rights reserved.
+//  Copyright © 2017年 jk. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
